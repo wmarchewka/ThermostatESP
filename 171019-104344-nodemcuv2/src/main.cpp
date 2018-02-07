@@ -95,6 +95,7 @@ int errorThermostat = 0;
 int errorWiFI = 0;
 word eepromHregCopy[maxHregSize] = { };
 bool eepromCoilCopy[maxCoilSize] = { };
+bool imTiredOfThisShit;
 
 IPAddress ip;
 String dhtStatusError;
