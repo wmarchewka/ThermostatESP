@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/waltermarchewka/.platformio/penv/bin:/Users/waltermarchewka/.platformio/penv:/Users/waltermarchewka/perl5/bin:/usr/local/opt/qt/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Volumes/case-sensitive/esp-open-sdk/xtensa-lx106-elf/bin:~Documents/esp-open-rtos",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
